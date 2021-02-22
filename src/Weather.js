@@ -13,7 +13,7 @@ function handleResponse(response) {
     return (
         <Loader
         type="Puff"
-        color="00BFFF"
+        color="blue"
         height={100}
         width={100}
         timeout={3000}
