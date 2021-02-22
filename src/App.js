@@ -11,11 +11,11 @@ function App() {
        <Weather city="Tokyo"/>
       </header>
       <div>
-    <small>
-      <a href="https://github.com/Ella91/weather-react" target="blank">
-        This site was coded by Ella</a>
-    </small>
-    </div>
+        <small>
+          <a href="https://github.com/Ella91/weather-react" target="blank">
+            This site was coded by Ella</a>
+        </small>
+      </div>
     </div>
   );
 }
