@@ -10,6 +10,12 @@ function App() {
        <h1>Hello from React</h1>
        <Weather city="Tokyo"/>
       </header>
+      <div>
+    <small>
+      <a href="https://github.com/Ella91/weather-react" target="blank">
+        This site was coded by Ella</a>
+    </small>
+    </div>
     </div>
   );
 }
